@@ -1,0 +1,219 @@
+{
+  "format": "yukino-public-v1",
+  "release_id": "b4da751a-3350-4c6e-945a-1efb462899a6",
+  "audience": "public",
+  "title": "雪乃的足球研究室",
+  "generated_at": "2026-10-12T10:45:59.860Z",
+  "include_results": true,
+  "batches": [
+    {
+      "date": "2026-10-12",
+      "mode": "prematch",
+      "model_version": "v4.51",
+      "frozen_at": "2026-10-12T10:42:53.459Z",
+      "fixtures": [
+        {
+          "number": "2041921",
+          "home": "迪拜连接",
+          "away": "吉达国民",
+          "league": "亚洲冠军精英联赛",
+          "kickoff": "2026-10-12T16:00:00.000Z",
+          "main": "1-2",
+          "backup": "1-1",
+          "tail": "0-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0
+        },
+        {
+          "number": "2041922",
+          "home": "亚特兰大",
+          "away": "威尼斯",
+          "league": "意大利甲级联赛",
+          "kickoff": "2026-10-12T16:30:00.000Z",
+          "main": "2-0",
+          "backup": "2-1",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 1
+        },
+        {
+          "number": "2041923",
+          "home": "马尔默",
+          "away": "卡尔马",
+          "league": "瑞典超级联赛",
+          "kickoff": "2026-10-12T17:00:00.000Z",
+          "main": "2-0",
+          "backup": "2-1",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 2
+        },
+        {
+          "number": "2041924",
+          "home": "奥斯陆KFUM",
+          "away": "瓦勒伦加",
+          "league": "挪威超级联赛",
+          "kickoff": "2026-10-12T17:00:00.000Z",
+          "main": "1-1",
+          "backup": "2-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 3
+        },
+        {
+          "number": "2041925",
+          "home": "都灵",
+          "away": "乌迪内斯",
+          "league": "意大利甲级联赛",
+          "kickoff": "2026-10-12T18:45:00.000Z",
+          "main": "1-0",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 4
+        },
+        {
+          "number": "2041926",
+          "home": "第戎",
+          "away": "梅斯",
+          "league": "法国乙级联赛",
+          "kickoff": "2026-10-12T18:45:00.000Z",
+          "main": "1-1",
+          "backup": "1-0",
+          "tail": "0-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 5
+        },
+        {
+          "number": "2041927",
+          "home": "考文垂",
+          "away": "纽卡斯尔联",
+          "league": "英格兰超级联赛",
+          "kickoff": "2026-10-12T19:00:00.000Z",
+          "main": "0-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form",
+            "squad"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 6
+        },
+        {
+          "number": "2041928",
+          "home": "莱万特",
+          "away": "塞维利亚",
+          "league": "西班牙甲级联赛",
+          "kickoff": "2026-10-12T19:00:00.000Z",
+          "main": "1-1",
+          "backup": "1-0",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 7
+        },
+        {
+          "number": "2041929",
+          "home": "科里蒂巴",
+          "away": "博塔弗戈",
+          "league": "巴西甲级联赛",
+          "kickoff": "2026-10-12T19:00:00.000Z",
+          "main": "1-1",
+          "backup": "1-0",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 8
+        },
+        {
+          "number": "2041930",
+          "home": "法马利康",
+          "away": "阿尔维卡",
+          "league": "葡萄牙超级联赛",
+          "kickoff": "2026-10-12T19:15:00.000Z",
+          "main": "2-0",
+          "backup": "1-1",
+          "tail": "2-1",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 9
+        }
+      ],
+      "selections": {
+        "exact": [
+          1,
+          3,
+          4
+        ],
+        "research": [
+          1,
+          3,
+          4
+        ]
+      }
+    }
+  ]
+}
