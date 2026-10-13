@@ -1,0 +1,186 @@
+{
+  "format": "yukino-public-v1",
+  "release_id": "bea5a578-1f94-4e15-bbf1-5a1a91b82df2",
+  "audience": "public",
+  "title": "雪乃的足球研究室",
+  "generated_at": "2026-10-13T12:05:41.036Z",
+  "include_results": true,
+  "batches": [
+    {
+      "date": "2026-10-13",
+      "mode": "prematch",
+      "model_version": "v4.51",
+      "frozen_at": "2026-10-13T12:05:28.267Z",
+      "fixtures": [
+        {
+          "number": "2041952",
+          "home": "布里兰",
+          "away": "北京国安",
+          "league": "亚洲冠军精英联赛",
+          "kickoff": "2026-10-13T12:15:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "3-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0
+        },
+        {
+          "number": "2041955",
+          "home": "阿森纳",
+          "away": "里尔",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "2-0",
+          "backup": "2-1",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 1
+        },
+        {
+          "number": "2041956",
+          "home": "比利亚雷亚尔",
+          "away": "那不勒斯",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "1-1",
+          "backup": "2-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 2
+        },
+        {
+          "number": "2041957",
+          "home": "维京",
+          "away": "拜仁慕尼黑",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "1-2",
+          "backup": "0-2",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 3
+        },
+        {
+          "number": "2041958",
+          "home": "莱比锡红牛",
+          "away": "PSV埃因霍温",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "3-1",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 4
+        },
+        {
+          "number": "2041959",
+          "home": "加拉塔萨雷",
+          "away": "巴塞罗那",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "1-2",
+          "backup": "0-2",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 5
+        },
+        {
+          "number": "2041960",
+          "home": "马德里竞技",
+          "away": "曼彻斯特联",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 6
+        },
+        {
+          "number": "2041961",
+          "home": "斯托克城",
+          "away": "米德尔斯堡",
+          "league": "英格兰冠军联赛",
+          "kickoff": "2026-10-13T19:00:00.000Z",
+          "main": "1-1",
+          "backup": "1-2",
+          "tail": "2-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "pending",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 7
+        }
+      ],
+      "selections": {
+        "exact": [
+          1,
+          3,
+          4
+        ],
+        "research": [
+          1,
+          3,
+          4
+        ]
+      }
+    }
+  ]
+}
