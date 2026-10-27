@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "9d8300ed-5ce9-44c2-96f9-59188ddc70d6",
+  "release_id": "d427c87c-560e-4b8f-8264-7b3d07d70ab2",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-10-27T08:15:24.834Z",
+  "generated_at": "2026-10-27T12:33:44.894Z",
   "include_results": true,
-  "revision": "9d8300ed-5ce9-44c2-96f9-59188ddc70d6",
+  "revision": "d427c87c-560e-4b8f-8264-7b3d07d70ab2",
   "latest_date": "2026-10-27",
   "batches": [
     {
@@ -28,10 +28,10 @@
           "missing_topics": [
             "squad"
           ],
-          "result": null,
-          "result_status": "hidden",
-          "two_hit": null,
-          "three_hit": null,
+          "result": "5-2",
+          "result_status": "settled",
+          "two_hit": false,
+          "three_hit": false,
           "index": 0,
           "frozen_at": "2026-10-27T08:15:13.753Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
@@ -51,10 +51,10 @@
           "missing_topics": [
             "squad"
           ],
-          "result": null,
-          "result_status": "hidden",
-          "two_hit": null,
-          "three_hit": null,
+          "result": "0-1",
+          "result_status": "settled",
+          "two_hit": false,
+          "three_hit": false,
           "index": 1,
           "frozen_at": "2026-10-27T08:15:13.753Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
