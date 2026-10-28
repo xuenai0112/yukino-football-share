@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "0e25e1ad-d3fe-441b-a65e-9336e5746bf7",
+  "release_id": "70b59ce3-f4ca-4b1d-9dd2-c4d496f7177b",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-10-28T05:56:30.891Z",
+  "generated_at": "2026-10-28T06:26:33.373Z",
   "include_results": true,
-  "revision": "0e25e1ad-d3fe-441b-a65e-9336e5746bf7",
+  "revision": "70b59ce3-f4ca-4b1d-9dd2-c4d496f7177b",
   "latest_date": "2026-10-27",
   "batches": [
     {
@@ -100,10 +100,10 @@
           "missing_topics": [
             "squad"
           ],
-          "result": null,
-          "result_status": "hidden",
-          "two_hit": null,
-          "three_hit": null,
+          "result": "1-3",
+          "result_status": "settled",
+          "two_hit": false,
+          "three_hit": false,
           "index": 3,
           "frozen_at": "2026-10-27T08:15:13.753Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
