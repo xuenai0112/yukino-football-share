@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "975d9945-2d20-4fa3-96c8-a4c80b8e0b0a",
+  "release_id": "64b25390-8613-4213-a079-7bd49e37c31c",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-02T16:00:28.252Z",
+  "generated_at": "2026-11-02T17:32:55.914Z",
   "include_results": true,
-  "revision": "975d9945-2d20-4fa3-96c8-a4c80b8e0b0a",
+  "revision": "64b25390-8613-4213-a079-7bd49e37c31c",
   "latest_date": "2026-11-02",
   "batches": [
     {
       "date": "2026-11-02",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-02T13:18:36.981Z",
+      "frozen_at": "2026-11-02T17:32:40.018Z",
       "fixtures": [
         {
           "number": "2042439",
@@ -150,6 +150,50 @@
           "frozen_at": "2026-11-02T13:18:36.981Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042442",
+          "home": "圣旺红星",
+          "away": "南锡",
+          "league": "法国乙级联赛",
+          "kickoff": "2026-11-02T19:45:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-02T17:32:40.018Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042446",
+          "home": "布拉干蒂诺RB",
+          "away": "桑托斯",
+          "league": "巴西甲级联赛",
+          "kickoff": "2026-11-02T23:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 1,
+          "frozen_at": "2026-11-02T17:32:40.018Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
       ],
       "selections": {
