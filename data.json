@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "890c3e24-32ec-45b3-b955-e47a7c849501",
+  "release_id": "975d9945-2d20-4fa3-96c8-a4c80b8e0b0a",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-02T13:18:53.704Z",
+  "generated_at": "2026-11-02T16:00:28.252Z",
   "include_results": true,
-  "revision": "890c3e24-32ec-45b3-b955-e47a7c849501",
+  "revision": "975d9945-2d20-4fa3-96c8-a4c80b8e0b0a",
   "latest_date": "2026-11-02",
   "batches": [
     {
@@ -170,173 +170,148 @@
   ],
   "top3_performance": {
     "format": "sealed-top3-performance-v1",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "days": [
       {
-        "date": "2026-11-01",
+        "date": "2026-11-02",
         "kind": "exact",
         "status": "verified",
         "reason": null,
-        "freeze_hash": "77f18b084cb49181515a8b9ce117320cc46f767b706a1672bf42460164475526",
-        "frozen_at": "2026-11-01T13:35:08.301Z",
-        "selected_at": "2026-11-01T13:35:08.301Z",
+        "freeze_hash": "a5b893a9c6e2d3115908c49d387c4b2b5167f433ee8017e828fc00a33fde9987",
+        "frozen_at": "2026-11-02T13:18:36.981Z",
+        "selected_at": "2026-11-02T13:18:36.981Z",
         "selected_time_basis": "saved_selection_analysis",
         "selector": "partial_freeze",
         "rank_basis": "stored_order_not_confidence",
         "rows": [
           {
             "rank": 1,
-            "number": "2042425",
-            "key": "[\"2042425\",\"拉齐奥\",\"卡利亚里\",\"2026-11-01T14:00:00.000Z\"]",
-            "home": "拉齐奥",
-            "away": "卡利亚里",
-            "kickoff": "2026-11-01T14:00:00.000Z",
-            "main": "3-1",
-            "backup": "2-0",
-            "tail": "1-1",
-            "state": "settled",
-            "actual": "2-1"
+            "number": "2042439",
+            "key": "[\"2042439\",\"萨索洛\",\"佛罗伦萨\",\"2026-11-02T17:30:00.000Z\"]",
+            "home": "萨索洛",
+            "away": "佛罗伦萨",
+            "kickoff": "2026-11-02T17:30:00.000Z",
+            "main": "1-2",
+            "backup": "2-2",
+            "tail": "2-1",
+            "state": "pending",
+            "actual": null
           },
           {
             "rank": 2,
-            "number": "2042427",
-            "key": "[\"2042427\",\"格罗宁根\",\"鹿特丹斯巴达\",\"2026-11-01T15:45:00.000Z\"]",
-            "home": "格罗宁根",
-            "away": "鹿特丹斯巴达",
-            "kickoff": "2026-11-01T15:45:00.000Z",
+            "number": "2042440",
+            "key": "[\"2042440\",\"哥德堡盖斯\",\"AIK索尔纳\",\"2026-11-02T18:00:00.000Z\"]",
+            "home": "哥德堡盖斯",
+            "away": "AIK索尔纳",
+            "kickoff": "2026-11-02T18:00:00.000Z",
             "main": "2-1",
-            "backup": "3-1",
-            "tail": "2-2",
-            "state": "settled",
-            "actual": "2-3"
+            "backup": "1-1",
+            "tail": "1-2",
+            "state": "pending",
+            "actual": null
           },
           {
             "rank": 3,
-            "number": "2042428",
-            "key": "[\"2042428\",\"利物浦\",\"阿森纳\",\"2026-11-01T16:30:00.000Z\"]",
-            "home": "利物浦",
-            "away": "阿森纳",
-            "kickoff": "2026-11-01T16:30:00.000Z",
-            "main": "1-1",
-            "backup": "2-1",
-            "tail": "1-2",
-            "state": "settled",
-            "actual": "0-1"
+            "number": "2042445",
+            "key": "[\"2042445\",\"本菲卡\",\"阿尔维卡\",\"2026-11-02T20:15:00.000Z\"]",
+            "home": "本菲卡",
+            "away": "阿尔维卡",
+            "kickoff": "2026-11-02T20:15:00.000Z",
+            "main": "3-1",
+            "backup": "2-0",
+            "tail": "1-1",
+            "state": "pending",
+            "actual": null
           }
         ]
       },
       {
-        "date": "2026-11-01",
+        "date": "2026-11-02",
         "kind": "research",
         "status": "verified",
         "reason": null,
-        "freeze_hash": "77f18b084cb49181515a8b9ce117320cc46f767b706a1672bf42460164475526",
-        "frozen_at": "2026-11-01T13:35:08.301Z",
-        "selected_at": "2026-11-01T13:35:08.301Z",
+        "freeze_hash": "a5b893a9c6e2d3115908c49d387c4b2b5167f433ee8017e828fc00a33fde9987",
+        "frozen_at": "2026-11-02T13:18:36.981Z",
+        "selected_at": "2026-11-02T13:18:36.981Z",
         "selected_time_basis": "saved_selection_analysis",
         "selector": "partial_freeze",
         "rank_basis": "stored_order_not_confidence",
         "rows": [
           {
             "rank": 1,
-            "number": "2042425",
-            "key": "[\"2042425\",\"拉齐奥\",\"卡利亚里\",\"2026-11-01T14:00:00.000Z\"]",
-            "home": "拉齐奥",
-            "away": "卡利亚里",
-            "kickoff": "2026-11-01T14:00:00.000Z",
-            "main": "3-1",
-            "backup": "2-0",
-            "tail": "1-1",
-            "state": "settled",
-            "actual": "2-1"
+            "number": "2042439",
+            "key": "[\"2042439\",\"萨索洛\",\"佛罗伦萨\",\"2026-11-02T17:30:00.000Z\"]",
+            "home": "萨索洛",
+            "away": "佛罗伦萨",
+            "kickoff": "2026-11-02T17:30:00.000Z",
+            "main": "1-2",
+            "backup": "2-2",
+            "tail": "2-1",
+            "state": "pending",
+            "actual": null
           },
           {
             "rank": 2,
-            "number": "2042427",
-            "key": "[\"2042427\",\"格罗宁根\",\"鹿特丹斯巴达\",\"2026-11-01T15:45:00.000Z\"]",
-            "home": "格罗宁根",
-            "away": "鹿特丹斯巴达",
-            "kickoff": "2026-11-01T15:45:00.000Z",
+            "number": "2042441",
+            "key": "[\"2042441\",\"亚特兰大\",\"帕尔马\",\"2026-11-02T19:45:00.000Z\"]",
+            "home": "亚特兰大",
+            "away": "帕尔马",
+            "kickoff": "2026-11-02T19:45:00.000Z",
             "main": "2-1",
-            "backup": "3-1",
-            "tail": "2-2",
-            "state": "settled",
-            "actual": "2-3"
+            "backup": "3-0",
+            "tail": "1-1",
+            "state": "pending",
+            "actual": null
           },
           {
             "rank": 3,
-            "number": "2042428",
-            "key": "[\"2042428\",\"利物浦\",\"阿森纳\",\"2026-11-01T16:30:00.000Z\"]",
-            "home": "利物浦",
-            "away": "阿森纳",
-            "kickoff": "2026-11-01T16:30:00.000Z",
-            "main": "1-1",
-            "backup": "2-1",
-            "tail": "1-2",
-            "state": "settled",
-            "actual": "0-1"
+            "number": "2042445",
+            "key": "[\"2042445\",\"本菲卡\",\"阿尔维卡\",\"2026-11-02T20:15:00.000Z\"]",
+            "home": "本菲卡",
+            "away": "阿尔维卡",
+            "kickoff": "2026-11-02T20:15:00.000Z",
+            "main": "3-1",
+            "backup": "2-0",
+            "tail": "1-1",
+            "state": "pending",
+            "actual": null
           }
         ]
       }
     ],
     "windows": {
       "7": {
-        "from": "2026-10-26",
-        "to": "2026-11-01",
+        "from": "2026-10-27",
+        "to": "2026-11-02",
         "types": {
           "exact": {
-            "n": 18,
+            "n": 15,
             "exact": {
-              "hits": 3,
-              "n": 18,
-              "percent": 16.67
+              "hits": 2,
+              "n": 15,
+              "percent": 13.33
             },
             "two": {
-              "hits": 4,
-              "n": 18,
-              "percent": 22.22
+              "hits": 2,
+              "n": 15,
+              "percent": 13.33
             },
             "three": {
-              "hits": 4,
-              "n": 18,
-              "percent": 22.22
+              "hits": 2,
+              "n": 15,
+              "percent": 13.33
             },
             "direction": {
-              "hits": 11,
-              "n": 18,
-              "percent": 61.11
+              "hits": 8,
+              "n": 15,
+              "percent": 53.33
             },
             "recommended_days": 6,
-            "complete_days": 6,
-            "pending_legs": 0,
+            "complete_days": 5,
+            "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
-              {
-                "date": "2026-10-26",
-                "n": 3,
-                "exact": {
-                  "hits": 1,
-                  "n": 3,
-                  "percent": 33.33
-                },
-                "two": {
-                  "hits": 2,
-                  "n": 3,
-                  "percent": 66.67
-                },
-                "three": {
-                  "hits": 2,
-                  "n": 3,
-                  "percent": 66.67
-                },
-                "direction": {
-                  "hits": 3,
-                  "n": 3,
-                  "percent": 100
-                },
-                "pending": 0
-              },
               {
                 "date": "2026-10-27",
                 "n": 3,
@@ -461,62 +436,62 @@
                   "percent": 33.33
                 },
                 "pending": 0
+              },
+              {
+                "date": "2026-11-02",
+                "n": 0,
+                "exact": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "two": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "three": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "direction": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "pending": 3
               }
             ]
           },
           "research": {
-            "n": 18,
+            "n": 15,
             "exact": {
-              "hits": 2,
-              "n": 18,
-              "percent": 11.11
+              "hits": 1,
+              "n": 15,
+              "percent": 6.67
             },
             "two": {
-              "hits": 3,
-              "n": 18,
-              "percent": 16.67
+              "hits": 1,
+              "n": 15,
+              "percent": 6.67
             },
             "three": {
-              "hits": 3,
-              "n": 18,
-              "percent": 16.67
+              "hits": 1,
+              "n": 15,
+              "percent": 6.67
             },
             "direction": {
-              "hits": 11,
-              "n": 18,
-              "percent": 61.11
+              "hits": 8,
+              "n": 15,
+              "percent": 53.33
             },
             "recommended_days": 6,
-            "complete_days": 6,
-            "pending_legs": 0,
+            "complete_days": 5,
+            "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
-              {
-                "date": "2026-10-26",
-                "n": 3,
-                "exact": {
-                  "hits": 1,
-                  "n": 3,
-                  "percent": 33.33
-                },
-                "two": {
-                  "hits": 2,
-                  "n": 3,
-                  "percent": 66.67
-                },
-                "three": {
-                  "hits": 2,
-                  "n": 3,
-                  "percent": 66.67
-                },
-                "direction": {
-                  "hits": 3,
-                  "n": 3,
-                  "percent": 100
-                },
-                "pending": 0
-              },
               {
                 "date": "2026-10-27",
                 "n": 3,
@@ -641,14 +616,39 @@
                   "percent": 33.33
                 },
                 "pending": 0
+              },
+              {
+                "date": "2026-11-02",
+                "n": 0,
+                "exact": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "two": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "three": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "direction": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "pending": 3
               }
             ]
           }
         }
       },
       "30": {
-        "from": "2026-10-03",
-        "to": "2026-11-01",
+        "from": "2026-10-04",
+        "to": "2026-11-02",
         "types": {
           "exact": {
             "n": 57,
@@ -672,9 +672,9 @@
               "n": 57,
               "percent": 54.39
             },
-            "recommended_days": 19,
+            "recommended_days": 20,
             "complete_days": 19,
-            "pending_legs": 0,
+            "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
@@ -1152,6 +1152,31 @@
                   "percent": 33.33
                 },
                 "pending": 0
+              },
+              {
+                "date": "2026-11-02",
+                "n": 0,
+                "exact": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "two": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "three": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "direction": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "pending": 3
               }
             ]
           },
@@ -1177,9 +1202,9 @@
               "n": 57,
               "percent": 56.14
             },
-            "recommended_days": 19,
+            "recommended_days": 20,
             "complete_days": 19,
-            "pending_legs": 0,
+            "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
@@ -1657,6 +1682,31 @@
                   "percent": 33.33
                 },
                 "pending": 0
+              },
+              {
+                "date": "2026-11-02",
+                "n": 0,
+                "exact": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "two": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "three": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "direction": {
+                  "hits": 0,
+                  "n": 0,
+                  "percent": null
+                },
+                "pending": 3
               }
             ]
           }
