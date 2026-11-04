@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "ba72fab6-27ab-4862-b353-63427f155832",
+  "release_id": "66e84c16-6c24-4b6f-af80-7c3ffbceae48",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-04T09:38:12.028Z",
+  "generated_at": "2026-11-04T09:58:51.709Z",
   "include_results": true,
-  "revision": "ba72fab6-27ab-4862-b353-63427f155832",
+  "revision": "66e84c16-6c24-4b6f-af80-7c3ffbceae48",
   "latest_date": "2026-11-04",
   "batches": [
     {
       "date": "2026-11-04",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-04T09:38:06.966Z",
+      "frozen_at": "2026-11-04T09:58:47.987Z",
       "fixtures": [
         {
           "number": "2042506",
@@ -57,6 +57,98 @@
           "three_hit": null,
           "index": 1,
           "frozen_at": "2026-11-04T09:38:06.966Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042508",
+          "home": "雷恩",
+          "away": "奥林匹亚科斯",
+          "league": "欧罗巴联赛",
+          "kickoff": "2026-11-04T15:30:00.000Z",
+          "main": "1-1",
+          "backup": "2-1",
+          "tail": "0-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-04T09:58:47.987Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042509",
+          "home": "费内巴切",
+          "away": "利物浦",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-11-04T17:45:00.000Z",
+          "main": "1-3",
+          "backup": "1-2",
+          "tail": "2-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 1,
+          "frozen_at": "2026-11-04T09:58:47.987Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042510",
+          "home": "莱比锡红牛",
+          "away": "曼彻斯特城",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-11-04T20:00:00.000Z",
+          "main": "1-2",
+          "backup": "1-3",
+          "tail": "2-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 2,
+          "frozen_at": "2026-11-04T09:58:47.987Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042511",
+          "home": "波尔图",
+          "away": "那不勒斯",
+          "league": "欧洲冠军联赛",
+          "kickoff": "2026-11-04T20:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 3,
+          "frozen_at": "2026-11-04T09:58:47.987Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
