@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "9a672079-c4a9-4fad-8b3c-d8b9f2917d2e",
+  "release_id": "570e9607-42af-45ea-a5fc-0e6a76823039",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-04T14:34:17.824Z",
+  "generated_at": "2026-11-04T14:35:06.054Z",
   "include_results": true,
-  "revision": "9a672079-c4a9-4fad-8b3c-d8b9f2917d2e",
+  "revision": "570e9607-42af-45ea-a5fc-0e6a76823039",
   "latest_date": "2026-11-04",
   "batches": [
     {
@@ -290,8 +290,16 @@
         }
       ],
       "selections": {
-        "exact": [],
-        "research": []
+        "exact": [
+          5,
+          8,
+          9
+        ],
+        "research": [
+          5,
+          8,
+          9
+        ]
       },
       "coverage_mode": "partial",
       "coverage_total": 12
