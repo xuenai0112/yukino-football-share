@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "639d2bd3-6765-4ff7-b008-f5a55fae929a",
+  "release_id": "ddb5b5db-a383-4db0-be35-1c0427f08daa",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-06T10:31:03.014Z",
+  "generated_at": "2026-11-06T14:17:05.199Z",
   "include_results": true,
-  "revision": "639d2bd3-6765-4ff7-b008-f5a55fae929a",
+  "revision": "ddb5b5db-a383-4db0-be35-1c0427f08daa",
   "latest_date": "2026-11-06",
   "batches": [
     {
       "date": "2026-11-06",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-06T09:48:58.656Z",
+      "frozen_at": "2026-11-06T14:16:35.083Z",
       "fixtures": [
         {
           "number": "2042556",
@@ -220,6 +220,53 @@
           "three_hit": null,
           "index": 8,
           "frozen_at": "2026-11-06T09:48:58.656Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042565",
+          "home": "德比郡",
+          "away": "博尔顿",
+          "league": "英格兰冠军联赛",
+          "kickoff": "2026-11-06T20:00:00.000Z",
+          "main": "1-1",
+          "backup": "1-2",
+          "tail": "2-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form",
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-06T14:16:35.083Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042567",
+          "home": "法马利康",
+          "away": "阿罗卡",
+          "league": "葡萄牙超级联赛",
+          "kickoff": "2026-11-06T20:45:00.000Z",
+          "main": "1-1",
+          "backup": "1-0",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "form"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 1,
+          "frozen_at": "2026-11-06T14:16:35.083Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
