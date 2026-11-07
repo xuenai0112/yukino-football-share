@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "6b43efac-23b6-47b9-90c8-e5e3b9c10eb6",
+  "release_id": "7898c118-23bb-48e6-9406-3192be8a6795",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-07T16:46:36.972Z",
+  "generated_at": "2026-11-07T16:51:01.880Z",
   "include_results": true,
-  "revision": "6b43efac-23b6-47b9-90c8-e5e3b9c10eb6",
+  "revision": "7898c118-23bb-48e6-9406-3192be8a6795",
   "latest_date": "2026-11-07",
   "batches": [
     {
       "date": "2026-11-07",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-07T16:46:32.395Z",
+      "frozen_at": "2026-11-07T16:50:57.356Z",
       "fixtures": [
         {
           "number": "2042603",
@@ -217,6 +217,27 @@
           "frozen_at": "2026-11-07T16:46:32.395Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042611",
+          "home": "皇家盐湖城",
+          "away": "洛杉矶银河",
+          "league": "美国职业大联盟",
+          "kickoff": "2026-11-08T00:00:00.000Z",
+          "main": "2-1",
+          "backup": "3-1",
+          "tail": "2-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-07T16:50:57.356Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "比赛存在随机性，比分仅供研究参考。"
         }
       ],
       "selections": {
