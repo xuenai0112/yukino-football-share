@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "d10a4f09-ea00-4b2d-ab66-b8a0381738fe",
+  "release_id": "c41ae506-28fb-466a-b1cc-66125150a214",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-07T16:00:26.096Z",
+  "generated_at": "2026-11-07T16:17:19.913Z",
   "include_results": true,
-  "revision": "d10a4f09-ea00-4b2d-ab66-b8a0381738fe",
+  "revision": "c41ae506-28fb-466a-b1cc-66125150a214",
   "latest_date": "2026-11-07",
   "batches": [
     {
       "date": "2026-11-07",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-07T15:51:03.648Z",
+      "frozen_at": "2026-11-07T16:16:51.246Z",
       "fixtures": [
         {
           "number": "2042603",
@@ -79,6 +79,29 @@
           "three_hit": null,
           "index": 2,
           "frozen_at": "2026-11-07T15:51:03.648Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042606",
+          "home": "奥萨苏纳",
+          "away": "毕尔巴鄂竞技",
+          "league": "西班牙甲级联赛",
+          "kickoff": "2026-11-07T17:30:00.000Z",
+          "main": "1-2",
+          "backup": "1-1",
+          "tail": "1-3",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-07T16:16:51.246Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
