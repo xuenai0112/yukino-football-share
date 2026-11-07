@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "a9ec9615-a2d3-433a-82dc-cf8384491d95",
+  "release_id": "95a59fa2-ac68-43d4-b7f6-bac5038a782b",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-07T16:18:57.133Z",
+  "generated_at": "2026-11-07T16:28:38.883Z",
   "include_results": true,
-  "revision": "a9ec9615-a2d3-433a-82dc-cf8384491d95",
+  "revision": "95a59fa2-ac68-43d4-b7f6-bac5038a782b",
   "latest_date": "2026-11-07",
   "batches": [
     {
       "date": "2026-11-07",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-07T16:18:52.230Z",
+      "frozen_at": "2026-11-07T16:28:34.229Z",
       "fixtures": [
         {
           "number": "2042603",
@@ -125,6 +125,29 @@
           "three_hit": null,
           "index": 0,
           "frozen_at": "2026-11-07T16:18:52.230Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042608",
+          "home": "阿尔维卡",
+          "away": "卡萨皮亚",
+          "league": "葡萄牙超级联赛",
+          "kickoff": "2026-11-07T18:00:00.000Z",
+          "main": "1-0",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-07T16:28:34.229Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
