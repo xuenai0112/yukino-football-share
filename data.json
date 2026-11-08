@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "af81967d-76c7-40b9-af24-d989405982e2",
+  "release_id": "b31017dc-789b-4f5a-8504-efbc0da6669b",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-08T12:16:06.861Z",
+  "generated_at": "2026-11-08T12:23:12.594Z",
   "include_results": true,
-  "revision": "af81967d-76c7-40b9-af24-d989405982e2",
+  "revision": "b31017dc-789b-4f5a-8504-efbc0da6669b",
   "latest_date": "2026-11-08",
   "batches": [
     {
       "date": "2026-11-08",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-08T12:16:01.237Z",
+      "frozen_at": "2026-11-08T12:23:06.742Z",
       "fixtures": [
         {
           "number": "2042618",
@@ -306,6 +306,29 @@
           "frozen_at": "2026-11-08T12:16:01.237Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042634",
+          "home": "国际米兰",
+          "away": "科莫",
+          "league": "意大利甲级联赛",
+          "kickoff": "2026-11-08T17:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-08T12:23:06.742Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
       ],
       "selections": {
