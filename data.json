@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "bafceb75-4242-4903-b5ea-9641d5889179",
+  "release_id": "6f83cf68-840b-4828-ae6c-ffbe3b9d79e9",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-08T11:59:11.593Z",
+  "generated_at": "2026-11-08T12:07:51.093Z",
   "include_results": true,
-  "revision": "bafceb75-4242-4903-b5ea-9641d5889179",
+  "revision": "6f83cf68-840b-4828-ae6c-ffbe3b9d79e9",
   "latest_date": "2026-11-08",
   "batches": [
     {
       "date": "2026-11-08",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-08T11:59:06.426Z",
+      "frozen_at": "2026-11-08T12:07:22.093Z",
       "fixtures": [
         {
           "number": "2042618",
@@ -262,6 +262,29 @@
           "frozen_at": "2026-11-08T11:59:06.426Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042632",
+          "home": "曼彻斯特联",
+          "away": "阿斯顿维拉",
+          "league": "英格兰超级联赛",
+          "kickoff": "2026-11-08T16:30:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-08T12:07:22.093Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
       ],
       "selections": {
