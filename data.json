@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "7c68a75d-994a-402f-bf58-25a5a3d6f422",
+  "release_id": "0e9ea065-71cb-4745-8031-9c9831ba8841",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-08T11:13:04.411Z",
+  "generated_at": "2026-11-08T11:24:28.040Z",
   "include_results": true,
-  "revision": "7c68a75d-994a-402f-bf58-25a5a3d6f422",
+  "revision": "0e9ea065-71cb-4745-8031-9c9831ba8841",
   "latest_date": "2026-11-08",
   "batches": [
     {
       "date": "2026-11-08",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-08T11:12:59.300Z",
+      "frozen_at": "2026-11-08T11:24:23.048Z",
       "fixtures": [
         {
           "number": "2042618",
@@ -147,6 +147,29 @@
           "three_hit": null,
           "index": 5,
           "frozen_at": "2026-11-08T11:12:59.300Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042626",
+          "home": "热那亚",
+          "away": "AC米兰",
+          "league": "意大利甲级联赛",
+          "kickoff": "2026-11-08T14:00:00.000Z",
+          "main": "1-2",
+          "backup": "1-1",
+          "tail": "2-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-08T11:24:23.048Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
