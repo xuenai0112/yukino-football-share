@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "f99fd64e-1c87-45cd-bb75-8cc4e380d23e",
+  "release_id": "699469dc-a24e-4637-a569-9ba88eb69fb3",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-08T11:45:31.297Z",
+  "generated_at": "2026-11-08T11:55:50.049Z",
   "include_results": true,
-  "revision": "f99fd64e-1c87-45cd-bb75-8cc4e380d23e",
+  "revision": "699469dc-a24e-4637-a569-9ba88eb69fb3",
   "latest_date": "2026-11-08",
   "batches": [
     {
       "date": "2026-11-08",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-08T11:45:25.830Z",
+      "frozen_at": "2026-11-08T11:55:45.160Z",
       "fixtures": [
         {
           "number": "2042618",
@@ -216,6 +216,29 @@
           "three_hit": null,
           "index": 0,
           "frozen_at": "2026-11-08T11:45:25.830Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042631",
+          "home": "勒芒",
+          "away": "摩纳哥",
+          "league": "法国甲级联赛",
+          "kickoff": "2026-11-08T16:15:00.000Z",
+          "main": "1-2",
+          "backup": "0-3",
+          "tail": "2-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-08T11:55:45.160Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
