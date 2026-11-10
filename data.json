@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "cdbf1efb-4a21-445d-a891-b26ca559771c",
+  "release_id": "232239ca-4838-4ae3-9598-392c4a361fba",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-10T09:25:20.485Z",
+  "generated_at": "2026-11-10T16:00:25.907Z",
   "include_results": true,
-  "revision": "cdbf1efb-4a21-445d-a891-b26ca559771c",
+  "revision": "232239ca-4838-4ae3-9598-392c4a361fba",
   "latest_date": "2026-11-09",
   "batches": [
     {
@@ -117,173 +117,41 @@
   ],
   "top3_performance": {
     "format": "sealed-top3-performance-v1",
-    "date": "2026-11-09",
-    "days": [
-      {
-        "date": "2026-11-09",
-        "kind": "exact",
-        "status": "verified",
-        "reason": null,
-        "freeze_hash": "1f1e37f66e1f6a1b5bd9c5fa44f3c4fe8f08ae9d75ebb1edc9cd33c21f519e88",
-        "frozen_at": "2026-11-09T08:57:27.289Z",
-        "selected_at": "2026-11-09T08:57:27.237Z",
-        "selected_time_basis": "saved_selection_analysis",
-        "selector": "day_top3_qualitative_v1",
-        "rank_basis": "stored_order_not_confidence",
-        "rows": [
-          {
-            "rank": 1,
-            "number": "366",
-            "key": "[\"366\",\"博托沙尼\",\"加拉茨钢铁\",\"2026-11-09T18:00:00.000Z\"]",
-            "home": "博托沙尼",
-            "away": "加拉茨钢铁",
-            "kickoff": "2026-11-09T18:00:00.000Z",
-            "main": "1-1",
-            "backup": "2-1",
-            "tail": "1-2",
-            "state": "pending",
-            "actual": null
-          },
-          {
-            "rank": 2,
-            "number": "367",
-            "key": "[\"367\",\"哈维德夫\",\"奥胡斯前进\",\"2026-11-09T18:00:00.000Z\"]",
-            "home": "哈维德夫",
-            "away": "奥胡斯前进",
-            "kickoff": "2026-11-09T18:00:00.000Z",
-            "main": "2-0",
-            "backup": "2-1",
-            "tail": "1-1",
-            "state": "pending",
-            "actual": null
-          },
-          {
-            "rank": 3,
-            "number": "368",
-            "key": "[\"368\",\"萨瓦德尔\",\"皇家社会B\",\"2026-11-09T19:30:00.000Z\"]",
-            "home": "萨瓦德尔",
-            "away": "皇家社会B",
-            "kickoff": "2026-11-09T19:30:00.000Z",
-            "main": "2-1",
-            "backup": "1-1",
-            "tail": "1-2",
-            "state": "pending",
-            "actual": null
-          }
-        ]
-      },
-      {
-        "date": "2026-11-09",
-        "kind": "research",
-        "status": "verified",
-        "reason": null,
-        "freeze_hash": "1f1e37f66e1f6a1b5bd9c5fa44f3c4fe8f08ae9d75ebb1edc9cd33c21f519e88",
-        "frozen_at": "2026-11-09T08:57:27.289Z",
-        "selected_at": "2026-11-09T08:57:27.237Z",
-        "selected_time_basis": "saved_selection_analysis",
-        "selector": "day_top3_qualitative_v1",
-        "rank_basis": "stored_order_not_confidence",
-        "rows": [
-          {
-            "rank": 1,
-            "number": "366",
-            "key": "[\"366\",\"博托沙尼\",\"加拉茨钢铁\",\"2026-11-09T18:00:00.000Z\"]",
-            "home": "博托沙尼",
-            "away": "加拉茨钢铁",
-            "kickoff": "2026-11-09T18:00:00.000Z",
-            "main": "1-1",
-            "backup": "2-1",
-            "tail": "1-2",
-            "state": "pending",
-            "actual": null
-          },
-          {
-            "rank": 2,
-            "number": "367",
-            "key": "[\"367\",\"哈维德夫\",\"奥胡斯前进\",\"2026-11-09T18:00:00.000Z\"]",
-            "home": "哈维德夫",
-            "away": "奥胡斯前进",
-            "kickoff": "2026-11-09T18:00:00.000Z",
-            "main": "2-0",
-            "backup": "2-1",
-            "tail": "1-1",
-            "state": "pending",
-            "actual": null
-          },
-          {
-            "rank": 3,
-            "number": "368",
-            "key": "[\"368\",\"萨瓦德尔\",\"皇家社会B\",\"2026-11-09T19:30:00.000Z\"]",
-            "home": "萨瓦德尔",
-            "away": "皇家社会B",
-            "kickoff": "2026-11-09T19:30:00.000Z",
-            "main": "2-1",
-            "backup": "1-1",
-            "tail": "1-2",
-            "state": "pending",
-            "actual": null
-          }
-        ]
-      }
-    ],
+    "date": "2026-11-10",
+    "days": [],
     "windows": {
       "7": {
-        "from": "2026-11-03",
-        "to": "2026-11-09",
+        "from": "2026-11-04",
+        "to": "2026-11-10",
         "types": {
           "exact": {
-            "n": 12,
+            "n": 9,
             "exact": {
               "hits": 3,
-              "n": 12,
-              "percent": 25
+              "n": 9,
+              "percent": 33.33
             },
             "two": {
               "hits": 4,
-              "n": 12,
-              "percent": 33.33
+              "n": 9,
+              "percent": 44.44
             },
             "three": {
-              "hits": 6,
-              "n": 12,
-              "percent": 50
+              "hits": 5,
+              "n": 9,
+              "percent": 55.56
             },
             "direction": {
-              "hits": 10,
-              "n": 12,
-              "percent": 83.33
+              "hits": 7,
+              "n": 9,
+              "percent": 77.78
             },
-            "recommended_days": 5,
-            "complete_days": 4,
+            "recommended_days": 4,
+            "complete_days": 3,
             "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
-              {
-                "date": "2026-11-03",
-                "n": 3,
-                "exact": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "two": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "three": {
-                  "hits": 1,
-                  "n": 3,
-                  "percent": 33.33
-                },
-                "direction": {
-                  "hits": 3,
-                  "n": 3,
-                  "percent": 100
-                },
-                "pending": 0
-              },
               {
                 "date": "2026-11-04",
                 "n": 3,
@@ -387,58 +255,33 @@
             ]
           },
           "research": {
-            "n": 12,
+            "n": 9,
             "exact": {
               "hits": 2,
-              "n": 12,
-              "percent": 16.67
+              "n": 9,
+              "percent": 22.22
             },
             "two": {
               "hits": 3,
-              "n": 12,
-              "percent": 25
+              "n": 9,
+              "percent": 33.33
             },
             "three": {
-              "hits": 5,
-              "n": 12,
-              "percent": 41.67
+              "hits": 4,
+              "n": 9,
+              "percent": 44.44
             },
             "direction": {
-              "hits": 10,
-              "n": 12,
-              "percent": 83.33
+              "hits": 7,
+              "n": 9,
+              "percent": 77.78
             },
-            "recommended_days": 5,
-            "complete_days": 4,
+            "recommended_days": 4,
+            "complete_days": 3,
             "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
-              {
-                "date": "2026-11-03",
-                "n": 3,
-                "exact": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "two": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "three": {
-                  "hits": 1,
-                  "n": 3,
-                  "percent": 33.33
-                },
-                "direction": {
-                  "hits": 3,
-                  "n": 3,
-                  "percent": 100
-                },
-                "pending": 0
-              },
               {
                 "date": "2026-11-04",
                 "n": 3,
@@ -544,8 +387,8 @@
         }
       },
       "30": {
-        "from": "2026-10-11",
-        "to": "2026-11-09",
+        "from": "2026-10-12",
+        "to": "2026-11-10",
         "types": {
           "exact": {
             "n": 72,
