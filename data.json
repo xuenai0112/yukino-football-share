@@ -1,118 +1,73 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "232239ca-4838-4ae3-9598-392c4a361fba",
+  "release_id": "1ca7e76c-aa07-4ad9-9973-2a83a28fea1f",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-10T16:00:25.907Z",
+  "generated_at": "2026-11-11T08:09:33.642Z",
   "include_results": true,
-  "revision": "232239ca-4838-4ae3-9598-392c4a361fba",
-  "latest_date": "2026-11-09",
+  "revision": "1ca7e76c-aa07-4ad9-9973-2a83a28fea1f",
+  "latest_date": "2026-11-11",
   "batches": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-11",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-09T08:57:27.289Z",
+      "frozen_at": "2026-11-11T08:09:03.477Z",
       "fixtures": [
         {
-          "number": "366",
-          "home": "博托沙尼",
-          "away": "加拉茨钢铁",
-          "league": "罗甲",
-          "kickoff": "2026-11-09T18:00:00.000Z",
-          "main": "1-1",
-          "backup": "2-1",
-          "tail": "1-2",
+          "number": "2042686",
+          "home": "横滨水手",
+          "away": "鹿岛鹿角",
+          "league": "日本联赛杯",
+          "kickoff": "2026-11-11T10:00:00.000Z",
+          "main": "1-2",
+          "backup": "1-1",
+          "tail": "2-1",
           "excluded": false,
-          "quality_tier": "A",
-          "missing_topics": [],
+          "quality_tier": "B",
+          "missing_topics": [
+            "form",
+            "squad"
+          ],
           "result": null,
           "result_status": "hidden",
           "two_hit": null,
           "three_hit": null,
           "index": 0,
-          "frozen_at": "2026-11-09T08:57:27.289Z",
+          "frozen_at": "2026-11-11T08:09:03.477Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "比赛存在随机性，比分仅供研究参考。"
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         },
         {
-          "number": "367",
-          "home": "哈维德夫",
-          "away": "奥胡斯前进",
-          "league": "丹甲",
-          "kickoff": "2026-11-09T18:00:00.000Z",
-          "main": "2-0",
-          "backup": "2-1",
-          "tail": "1-1",
+          "number": "2042687",
+          "home": "神户胜利船",
+          "away": "町田泽维亚",
+          "league": "日本联赛杯",
+          "kickoff": "2026-11-11T10:00:00.000Z",
+          "main": "1-1",
+          "backup": "1-0",
+          "tail": "0-1",
           "excluded": false,
-          "quality_tier": "A",
-          "missing_topics": [],
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
           "result": null,
           "result_status": "hidden",
           "two_hit": null,
           "three_hit": null,
           "index": 1,
-          "frozen_at": "2026-11-09T08:57:27.289Z",
+          "frozen_at": "2026-11-11T08:09:03.477Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "比赛存在随机性，比分仅供研究参考。"
-        },
-        {
-          "number": "368",
-          "home": "萨瓦德尔",
-          "away": "皇家社会B",
-          "league": "西乙",
-          "kickoff": "2026-11-09T19:30:00.000Z",
-          "main": "2-1",
-          "backup": "1-1",
-          "tail": "1-2",
-          "excluded": false,
-          "quality_tier": "A",
-          "missing_topics": [],
-          "result": null,
-          "result_status": "hidden",
-          "two_hit": null,
-          "three_hit": null,
-          "index": 2,
-          "frozen_at": "2026-11-09T08:57:27.289Z",
-          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "比赛存在随机性，比分仅供研究参考。"
-        },
-        {
-          "number": "369",
-          "home": "托里什恩斯",
-          "away": "莱里亚",
-          "league": "葡甲",
-          "kickoff": "2026-11-09T20:15:00.000Z",
-          "main": "1-1",
-          "backup": "2-1",
-          "tail": "1-2",
-          "excluded": false,
-          "quality_tier": "A",
-          "missing_topics": [],
-          "result": null,
-          "result_status": "hidden",
-          "two_hit": null,
-          "three_hit": null,
-          "index": 3,
-          "frozen_at": "2026-11-09T08:57:27.289Z",
-          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "比赛存在随机性，比分仅供研究参考。"
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
       ],
       "selections": {
-        "exact": [
-          0,
-          1,
-          2
-        ],
-        "research": [
-          0,
-          1,
-          2
-        ]
+        "exact": [],
+        "research": []
       },
-      "coverage_mode": "custom",
-      "coverage_total": 4
+      "coverage_mode": "partial",
+      "coverage_total": 6
     }
   ],
   "top3_performance": {
