@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "1ca7e76c-aa07-4ad9-9973-2a83a28fea1f",
+  "release_id": "4b487899-1657-4524-bf76-c87666e1a105",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-11T08:09:33.642Z",
+  "generated_at": "2026-11-11T09:04:06.396Z",
   "include_results": true,
-  "revision": "1ca7e76c-aa07-4ad9-9973-2a83a28fea1f",
+  "revision": "4b487899-1657-4524-bf76-c87666e1a105",
   "latest_date": "2026-11-11",
   "batches": [
     {
       "date": "2026-11-11",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-11T08:09:03.477Z",
+      "frozen_at": "2026-11-11T09:03:55.699Z",
       "fixtures": [
         {
           "number": "2042686",
@@ -60,13 +60,105 @@
           "frozen_at": "2026-11-11T08:09:03.477Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042688",
+          "home": "川崎前锋",
+          "away": "柏太阳神",
+          "league": "日本联赛杯",
+          "kickoff": "2026-11-11T10:00:00.000Z",
+          "main": "1-2",
+          "backup": "2-2",
+          "tail": "2-3",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 2,
+          "frozen_at": "2026-11-11T09:03:55.699Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042689",
+          "home": "浦和红钻",
+          "away": "大阪樱花",
+          "league": "日本联赛杯",
+          "kickoff": "2026-11-11T10:30:00.000Z",
+          "main": "2-1",
+          "backup": "2-2",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 3,
+          "frozen_at": "2026-11-11T09:03:55.699Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042690",
+          "home": "谢菲尔德星期三",
+          "away": "阿克宁顿",
+          "league": "英格兰锦标赛",
+          "kickoff": "2026-11-11T19:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 4,
+          "frozen_at": "2026-11-11T09:03:55.699Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "比赛存在随机性，比分仅供研究参考。"
+        },
+        {
+          "number": "2042691",
+          "home": "巴恩斯利",
+          "away": "奥德汉姆",
+          "league": "英格兰锦标赛",
+          "kickoff": "2026-11-11T19:00:00.000Z",
+          "main": "2-1",
+          "backup": "3-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 5,
+          "frozen_at": "2026-11-11T09:03:55.699Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "比赛存在随机性，比分仅供研究参考。"
         }
       ],
       "selections": {
-        "exact": [],
-        "research": []
+        "exact": [
+          2,
+          3,
+          5
+        ],
+        "research": [
+          2,
+          3,
+          4
+        ]
       },
-      "coverage_mode": "partial",
+      "coverage_mode": "full",
       "coverage_total": 6
     }
   ],
