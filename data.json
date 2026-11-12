@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "2440dbe2-d378-4257-8302-38c5774ba983",
+  "release_id": "5fb3ea40-1008-43ed-9de4-07a95031c4fc",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-12T16:00:31.118Z",
+  "generated_at": "2026-11-12T18:00:41.427Z",
   "include_results": true,
-  "revision": "2440dbe2-d378-4257-8302-38c5774ba983",
+  "revision": "5fb3ea40-1008-43ed-9de4-07a95031c4fc",
   "latest_date": "2026-11-12",
   "batches": [
     {
@@ -64,7 +64,33 @@
         "research": []
       },
       "coverage_mode": "partial",
-      "coverage_total": 6
+      "coverage_total": 6,
+      "fallbacks": [
+        {
+          "archive_id": "4b0ce45f-e4a6-4ba5-9632-4eb7ae276e4c",
+          "archive_hash": "a2a4b270c391688aa813555ca7cf79a7d727914debc8430461c185b4d3fa9c0a",
+          "reference_hash": "871b1c523fa096a359ceb41c2746d3eacfe8bf81f6d3549d1e90f30446c7da5a",
+          "number": "2042694",
+          "home": "阿尔巴尼亚",
+          "away": "芬兰",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-12T19:45:00.000Z",
+          "type": "fallback",
+          "formal": false,
+          "warning": "保底参考，谨慎选择",
+          "main": "1-0",
+          "backup": "0-0",
+          "tail": "1-1",
+          "generated_at": "2026-11-12T17:31:15.326Z",
+          "sealed_at": "2026-11-12T18:00:27.550Z",
+          "model": "single-authority-admin-v1",
+          "basis": "official_1x2_market",
+          "limitations": [
+            "资料未达到正式双来源标准；比分为未校准统计参考，不代表真实命中率。",
+            "不计入正式TOP3和正式预测命中率。"
+          ]
+        }
+      ]
     }
   ],
   "top3_performance": {
