@@ -1,176 +1,104 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "3987f51a-7fbc-46f6-8a30-1c80e76b5c3a",
+  "release_id": "19a5f437-59d1-448e-a235-3d937338f619",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-16T16:00:18.922Z",
+  "generated_at": "2026-11-16T18:10:10.827Z",
   "include_results": true,
-  "revision": "3987f51a-7fbc-46f6-8a30-1c80e76b5c3a",
-  "latest_date": "2026-11-15",
+  "revision": "19a5f437-59d1-448e-a235-3d937338f619",
+  "latest_date": "2026-11-16",
   "batches": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-15T11:58:41.816Z",
+      "frozen_at": "2026-11-16T17:50:23.637Z",
       "fixtures": [
         {
-          "number": "2042771",
-          "home": "马斯特里赫特",
-          "away": "维迪斯",
-          "league": "荷兰乙级联赛",
-          "kickoff": "2026-11-15T13:30:00.000Z",
-          "main": "1-2",
-          "backup": "0-1",
-          "tail": "2-2",
+          "number": "2042781",
+          "home": "瑞士",
+          "away": "苏格兰",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T19:45:00.000Z",
+          "main": "2-0",
+          "backup": "3-0",
+          "tail": "1-1",
           "excluded": false,
           "quality_tier": "B",
           "missing_topics": [
             "squad"
           ],
-          "result": "2-1",
-          "result_status": "settled",
-          "two_hit": false,
-          "three_hit": false,
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
           "index": 0,
-          "frozen_at": "2026-11-15T11:55:48.495Z",
+          "frozen_at": "2026-11-16T17:21:52.530Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         },
         {
-          "number": "2042772",
-          "home": "拉脱维亚",
-          "away": "亚美尼亚",
+          "number": "2042782",
+          "home": "德国",
+          "away": "荷兰",
           "league": "欧洲国家联赛",
-          "kickoff": "2026-11-15T14:00:00.000Z",
-          "main": "1-2",
-          "backup": "1-1",
-          "tail": "1-0",
-          "excluded": false,
-          "quality_tier": "B",
-          "missing_topics": [
-            "form",
-            "squad"
-          ],
-          "result": "0-0",
-          "result_status": "settled",
-          "two_hit": false,
-          "three_hit": false,
-          "index": 1,
-          "frozen_at": "2026-11-15T08:49:40.092Z",
-          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
-        },
-        {
-          "number": "2042773",
-          "home": "塞浦路斯",
-          "away": "黑山",
-          "league": "欧洲国家联赛",
-          "kickoff": "2026-11-15T14:00:00.000Z",
-          "main": "1-2",
-          "backup": "1-1",
-          "tail": "2-1",
-          "excluded": false,
-          "quality_tier": "B",
-          "missing_topics": [
-            "squad"
-          ],
-          "result": "1-4",
-          "result_status": "settled",
-          "two_hit": false,
-          "three_hit": false,
-          "index": 2,
-          "frozen_at": "2026-11-15T11:55:48.495Z",
-          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
-        },
-        {
-          "number": "2042785",
-          "home": "芬兰",
-          "away": "圣马力诺",
-          "league": "欧洲国家联赛",
-          "kickoff": "2026-11-15T17:00:00.000Z",
-          "main": "3-0",
-          "backup": "4-0",
-          "tail": "1-1",
-          "excluded": false,
-          "quality_tier": "B",
-          "missing_topics": [
-            "squad"
-          ],
-          "result": "7-2",
-          "result_status": "settled",
-          "two_hit": false,
-          "three_hit": false,
-          "index": 3,
-          "frozen_at": "2026-11-15T11:55:48.495Z",
-          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
-        },
-        {
-          "number": "2042774",
-          "home": "克罗地亚",
-          "away": "捷克",
-          "league": "欧洲国家联赛",
-          "kickoff": "2026-11-15T19:45:00.000Z",
+          "kickoff": "2026-11-16T19:45:00.000Z",
           "main": "2-1",
-          "backup": "2-0",
-          "tail": "1-1",
+          "backup": "1-1",
+          "tail": "1-2",
           "excluded": false,
           "quality_tier": "A",
           "missing_topics": [],
-          "result": "2-1",
-          "result_status": "settled",
-          "two_hit": true,
-          "three_hit": true,
-          "index": 4,
-          "frozen_at": "2026-11-15T08:49:40.092Z",
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-16T17:29:53.879Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "比赛存在随机性，比分仅供研究参考。"
         },
         {
-          "number": "2042775",
-          "home": "西班牙",
-          "away": "英格兰",
+          "number": "2042783",
+          "home": "北马其顿",
+          "away": "斯洛文尼亚",
           "league": "欧洲国家联赛",
-          "kickoff": "2026-11-15T19:45:00.000Z",
-          "main": "2-1",
-          "backup": "2-2",
-          "tail": "1-2",
+          "kickoff": "2026-11-16T19:45:00.000Z",
+          "main": "0-2",
+          "backup": "0-3",
+          "tail": "1-1",
           "excluded": false,
-          "quality_tier": "B",
-          "missing_topics": [
-            "squad"
-          ],
-          "result": "2-3",
-          "result_status": "settled",
-          "two_hit": false,
-          "three_hit": false,
-          "index": 5,
-          "frozen_at": "2026-11-15T08:49:40.092Z",
+          "quality_tier": "A",
+          "missing_topics": [],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-16T17:40:18.854Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
-          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+          "risk": "比赛存在随机性，比分仅供研究参考。"
         },
         {
-          "number": "2042776",
-          "home": "比利时",
-          "away": "意大利",
+          "number": "2042784",
+          "home": "希腊",
+          "away": "塞尔维亚",
           "league": "欧洲国家联赛",
-          "kickoff": "2026-11-15T19:45:00.000Z",
+          "kickoff": "2026-11-16T19:45:00.000Z",
           "main": "2-1",
-          "backup": "1-1",
-          "tail": "1-2",
+          "backup": "2-0",
+          "tail": "1-1",
           "excluded": false,
           "quality_tier": "B",
           "missing_topics": [
             "squad"
           ],
-          "result": "4-1",
-          "result_status": "settled",
-          "two_hit": false,
-          "three_hit": false,
-          "index": 6,
-          "frozen_at": "2026-11-15T11:55:48.495Z",
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-16T17:50:23.637Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
@@ -179,14 +107,137 @@
         "exact": [],
         "research": []
       },
-      "coverage_mode": "full",
-      "coverage_total": 8
+      "coverage_mode": "partial",
+      "coverage_total": 8,
+      "day_roster": [
+        {
+          "id": "2042777",
+          "home": "法罗群岛",
+          "away": "摩尔多瓦",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T15:00:00.000Z",
+          "status": "missed"
+        },
+        {
+          "id": "2042778",
+          "home": "哈萨克斯坦",
+          "away": "斯洛伐克",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T15:00:00.000Z",
+          "status": "missed"
+        },
+        {
+          "id": "2042779",
+          "home": "爱沙尼亚",
+          "away": "保加利亚",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T17:00:00.000Z",
+          "status": "missed"
+        },
+        {
+          "id": "2042780",
+          "home": "冰岛",
+          "away": "卢森堡",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T17:00:00.000Z",
+          "status": "missed"
+        },
+        {
+          "id": "2042781",
+          "home": "瑞士",
+          "away": "苏格兰",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T19:45:00.000Z",
+          "status": "formal"
+        },
+        {
+          "id": "2042782",
+          "home": "德国",
+          "away": "荷兰",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T19:45:00.000Z",
+          "status": "formal"
+        },
+        {
+          "id": "2042783",
+          "home": "北马其顿",
+          "away": "斯洛文尼亚",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T19:45:00.000Z",
+          "status": "formal"
+        },
+        {
+          "id": "2042784",
+          "home": "希腊",
+          "away": "塞尔维亚",
+          "league": "欧洲国家联赛",
+          "kickoff": "2026-11-16T19:45:00.000Z",
+          "status": "formal"
+        }
+      ],
+      "reference_top3": {
+        "generated_at": "2026-11-16T18:10:03.849Z",
+        "policy": "formal_first_fallback_fill_v1",
+        "rows": [
+          {
+            "number": "2042782",
+            "type": "formal",
+            "main": "2-1",
+            "backup": "1-1",
+            "tail": "1-2",
+            "kickoff": "2026-11-16T19:45:00.000Z"
+          },
+          {
+            "number": "2042783",
+            "type": "formal",
+            "main": "0-2",
+            "backup": "0-3",
+            "tail": "1-1",
+            "kickoff": "2026-11-16T19:45:00.000Z"
+          },
+          {
+            "number": "2042781",
+            "type": "formal",
+            "main": "2-0",
+            "backup": "3-0",
+            "tail": "1-1",
+            "kickoff": "2026-11-16T19:45:00.000Z"
+          }
+        ]
+      }
     }
   ],
   "top3_performance": {
     "format": "sealed-top3-performance-v1",
     "date": "2026-11-16",
-    "days": [],
+    "days": [
+      {
+        "date": "2026-11-16",
+        "kind": "exact",
+        "status": "absent",
+        "reason": "封存时未设置完整TOP3",
+        "freeze_hash": "db4e79d03daa4c21d9355a4aeb6fc4c9da1c5a0bac2119250b93b67c7679011a",
+        "frozen_at": "2026-11-16T17:21:52.530Z",
+        "selected_at": null,
+        "selected_time_basis": "present_no_later_than_freeze",
+        "selector": "legacy_sealed",
+        "rank_basis": "stored_order_not_confidence",
+        "rows": []
+      },
+      {
+        "date": "2026-11-16",
+        "kind": "research",
+        "status": "absent",
+        "reason": "封存时未设置完整TOP3",
+        "freeze_hash": "db4e79d03daa4c21d9355a4aeb6fc4c9da1c5a0bac2119250b93b67c7679011a",
+        "frozen_at": "2026-11-16T17:21:52.530Z",
+        "selected_at": null,
+        "selected_time_basis": "present_no_later_than_freeze",
+        "selector": "legacy_sealed",
+        "rank_basis": "stored_order_not_confidence",
+        "rows": []
+      }
+    ],
     "windows": {
       "7": {
         "from": "2026-11-10",
