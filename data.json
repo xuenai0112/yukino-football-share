@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "c758c8c0-e33a-4b8e-a914-16ab0abb6a1b",
+  "release_id": "96d1f8ce-46c2-4e22-8485-9b9e8af36cc1",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-17T11:26:26.073Z",
+  "generated_at": "2026-11-17T18:06:29.734Z",
   "include_results": true,
-  "revision": "c758c8c0-e33a-4b8e-a914-16ab0abb6a1b",
+  "revision": "96d1f8ce-46c2-4e22-8485-9b9e8af36cc1",
   "latest_date": "2026-11-17",
   "batches": [
     {
@@ -335,15 +335,15 @@
   ],
   "top3_performance": {
     "format": "sealed-top3-performance-v1",
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "days": [
       {
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "kind": "exact",
         "status": "absent",
         "reason": "封存时未设置完整TOP3",
-        "freeze_hash": "db4e79d03daa4c21d9355a4aeb6fc4c9da1c5a0bac2119250b93b67c7679011a",
-        "frozen_at": "2026-11-16T17:21:52.530Z",
+        "freeze_hash": "744582916b709f6dea807854fb916bba0cd4f5f32c52853a0d04e99ec4b79814",
+        "frozen_at": "2026-11-17T11:05:13.694Z",
         "selected_at": null,
         "selected_time_basis": "present_no_later_than_freeze",
         "selector": "legacy_sealed",
@@ -351,12 +351,12 @@
         "rows": []
       },
       {
-        "date": "2026-11-16",
+        "date": "2026-11-17",
         "kind": "research",
         "status": "absent",
         "reason": "封存时未设置完整TOP3",
-        "freeze_hash": "db4e79d03daa4c21d9355a4aeb6fc4c9da1c5a0bac2119250b93b67c7679011a",
-        "frozen_at": "2026-11-16T17:21:52.530Z",
+        "freeze_hash": "744582916b709f6dea807854fb916bba0cd4f5f32c52853a0d04e99ec4b79814",
+        "frozen_at": "2026-11-17T11:05:13.694Z",
         "selected_at": null,
         "selected_time_basis": "present_no_later_than_freeze",
         "selector": "legacy_sealed",
@@ -366,8 +366,8 @@
     ],
     "windows": {
       "7": {
-        "from": "2026-11-10",
-        "to": "2026-11-16",
+        "from": "2026-11-11",
+        "to": "2026-11-17",
         "types": {
           "exact": {
             "n": 6,
@@ -532,62 +532,37 @@
         }
       },
       "30": {
-        "from": "2026-10-18",
-        "to": "2026-11-16",
+        "from": "2026-10-19",
+        "to": "2026-11-17",
         "types": {
           "exact": {
-            "n": 63,
+            "n": 60,
             "exact": {
               "hits": 8,
-              "n": 63,
-              "percent": 12.7
+              "n": 60,
+              "percent": 13.33
             },
             "two": {
               "hits": 11,
-              "n": 63,
-              "percent": 17.46
+              "n": 60,
+              "percent": 18.33
             },
             "three": {
               "hits": 14,
-              "n": 63,
-              "percent": 22.22
+              "n": 60,
+              "percent": 23.33
             },
             "direction": {
-              "hits": 40,
-              "n": 63,
-              "percent": 63.49
+              "hits": 39,
+              "n": 60,
+              "percent": 65
             },
-            "recommended_days": 22,
-            "complete_days": 21,
+            "recommended_days": 21,
+            "complete_days": 20,
             "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
-              {
-                "date": "2026-10-18",
-                "n": 3,
-                "exact": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "two": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "three": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "direction": {
-                  "hits": 1,
-                  "n": 3,
-                  "percent": 33.33
-                },
-                "pending": 0
-              },
               {
                 "date": "2026-10-19",
                 "n": 3,
@@ -1116,58 +1091,33 @@
             ]
           },
           "research": {
-            "n": 63,
+            "n": 60,
             "exact": {
               "hits": 5,
-              "n": 63,
-              "percent": 7.94
+              "n": 60,
+              "percent": 8.33
             },
             "two": {
               "hits": 7,
-              "n": 63,
-              "percent": 11.11
+              "n": 60,
+              "percent": 11.67
             },
             "three": {
               "hits": 10,
-              "n": 63,
-              "percent": 15.87
+              "n": 60,
+              "percent": 16.67
             },
             "direction": {
-              "hits": 38,
-              "n": 63,
-              "percent": 60.32
+              "hits": 37,
+              "n": 60,
+              "percent": 61.67
             },
-            "recommended_days": 22,
-            "complete_days": 21,
+            "recommended_days": 21,
+            "complete_days": 20,
             "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
-              {
-                "date": "2026-10-18",
-                "n": 3,
-                "exact": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "two": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "three": {
-                  "hits": 0,
-                  "n": 3,
-                  "percent": 0
-                },
-                "direction": {
-                  "hits": 1,
-                  "n": 3,
-                  "percent": 33.33
-                },
-                "pending": 0
-              },
               {
                 "date": "2026-10-19",
                 "n": 3,
