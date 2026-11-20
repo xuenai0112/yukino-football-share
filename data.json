@@ -1,24 +1,217 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "22914339-b8a6-4fb1-b5b6-255de0f06e40",
+  "release_id": "66b4c562-65ed-46c5-8c8a-4413dbc0733f",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-20T06:47:22.985Z",
+  "generated_at": "2026-11-20T09:43:14.832Z",
   "include_results": true,
-  "revision": "22914339-b8a6-4fb1-b5b6-255de0f06e40",
+  "revision": "66b4c562-65ed-46c5-8c8a-4413dbc0733f",
   "latest_date": "2026-11-20",
   "batches": [
     {
       "date": "2026-11-20",
       "mode": "prematch",
-      "model_version": "fallback-archive-v1",
-      "frozen_at": "2026-11-20T06:14:04.377Z",
-      "fixtures": [],
+      "model_version": "v4.51",
+      "frozen_at": "2026-11-20T09:31:33.420Z",
+      "fixtures": [
+        {
+          "number": "2042879",
+          "home": "西悉尼漫步者",
+          "away": "阿德莱德联",
+          "league": "澳大利亚超级联赛",
+          "kickoff": "2026-11-20T08:40:00.000Z",
+          "main": "2-0",
+          "backup": "2-1",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T07:10:15.822Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042880",
+          "home": "柏太阳神",
+          "away": "千叶市原",
+          "league": "日本职业联赛",
+          "kickoff": "2026-11-20T10:00:00.000Z",
+          "main": "2-1",
+          "backup": "2-0",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T07:14:39.148Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042881",
+          "home": "鹿岛鹿角",
+          "away": "清水鼓动",
+          "league": "日本职业联赛",
+          "kickoff": "2026-11-20T10:00:00.000Z",
+          "main": "2-0",
+          "backup": "3-0",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T07:17:45.621Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042882",
+          "home": "比勒费尔德",
+          "away": "马格德堡",
+          "league": "德国乙级联赛",
+          "kickoff": "2026-11-20T17:30:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T07:21:05.439Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042883",
+          "home": "登博思",
+          "away": "芬洛",
+          "league": "荷兰乙级联赛",
+          "kickoff": "2026-11-20T19:00:00.000Z",
+          "main": "2-1",
+          "backup": "2-2",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T07:24:10.986Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042884",
+          "home": "拜仁慕尼黑",
+          "away": "科隆",
+          "league": "德国甲级联赛",
+          "kickoff": "2026-11-20T19:30:00.000Z",
+          "main": "3-1",
+          "backup": "2-0",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T07:27:16.792Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042885",
+          "home": "特鲁瓦",
+          "away": "勒阿弗尔",
+          "league": "法国甲级联赛",
+          "kickoff": "2026-11-20T19:45:00.000Z",
+          "main": "1-0",
+          "backup": "2-1",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T09:19:00.994Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042886",
+          "home": "毕尔巴鄂竞技",
+          "away": "西班牙人",
+          "league": "西班牙甲级联赛",
+          "kickoff": "2026-11-20T20:00:00.000Z",
+          "main": "2-0",
+          "backup": "2-1",
+          "tail": "1-1",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-20T09:31:33.420Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        }
+      ],
       "selections": {
-        "exact": [],
-        "research": []
+        "exact": [
+          1,
+          2,
+          3
+        ],
+        "research": [
+          1,
+          2,
+          3
+        ]
       },
-      "coverage_mode": "partial",
+      "coverage_mode": "full",
       "coverage_total": 8,
       "fallbacks": [
         {
@@ -221,7 +414,7 @@
           "away": "阿德莱德联",
           "league": "澳大利亚超级联赛",
           "kickoff": "2026-11-20T08:40:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042880",
@@ -229,7 +422,7 @@
           "away": "千叶市原",
           "league": "日本职业联赛",
           "kickoff": "2026-11-20T10:00:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042881",
@@ -237,7 +430,7 @@
           "away": "清水鼓动",
           "league": "日本职业联赛",
           "kickoff": "2026-11-20T10:00:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042882",
@@ -245,7 +438,7 @@
           "away": "马格德堡",
           "league": "德国乙级联赛",
           "kickoff": "2026-11-20T17:30:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042883",
@@ -253,7 +446,7 @@
           "away": "芬洛",
           "league": "荷兰乙级联赛",
           "kickoff": "2026-11-20T19:00:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042884",
@@ -261,7 +454,7 @@
           "away": "科隆",
           "league": "德国甲级联赛",
           "kickoff": "2026-11-20T19:30:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042885",
@@ -269,7 +462,7 @@
           "away": "勒阿弗尔",
           "league": "法国甲级联赛",
           "kickoff": "2026-11-20T19:45:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042886",
@@ -277,36 +470,36 @@
           "away": "西班牙人",
           "league": "西班牙甲级联赛",
           "kickoff": "2026-11-20T20:00:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         }
       ],
       "reference_top3": {
-        "generated_at": "2026-11-20T06:15:04.822Z",
+        "generated_at": "2026-11-20T09:42:44.672Z",
         "policy": "formal_first_fallback_fill_v1",
         "rows": [
           {
-            "number": "2042879",
-            "type": "fallback",
-            "main": "2-1",
-            "backup": "1-1",
-            "tail": "2-0",
-            "kickoff": "2026-11-20T08:40:00.000Z"
-          },
-          {
             "number": "2042880",
-            "type": "fallback",
-            "main": "2-0",
-            "backup": "2-1",
-            "tail": "1-0",
+            "type": "formal",
+            "main": "2-1",
+            "backup": "2-0",
+            "tail": "1-1",
             "kickoff": "2026-11-20T10:00:00.000Z"
           },
           {
             "number": "2042881",
-            "type": "fallback",
+            "type": "formal",
             "main": "2-0",
-            "backup": "1-0",
-            "tail": "3-0",
+            "backup": "3-0",
+            "tail": "1-1",
             "kickoff": "2026-11-20T10:00:00.000Z"
+          },
+          {
+            "number": "2042882",
+            "type": "formal",
+            "main": "2-1",
+            "backup": "1-1",
+            "tail": "1-2",
+            "kickoff": "2026-11-20T17:30:00.000Z"
           }
         ]
       }
