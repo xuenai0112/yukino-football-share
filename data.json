@@ -1,11 +1,11 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "5e69298a-96fe-48b8-a714-60d267e4d20b",
+  "release_id": "22914339-b8a6-4fb1-b5b6-255de0f06e40",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-20T06:17:43.140Z",
+  "generated_at": "2026-11-20T06:47:22.985Z",
   "include_results": true,
-  "revision": "5e69298a-96fe-48b8-a714-60d267e4d20b",
+  "revision": "22914339-b8a6-4fb1-b5b6-255de0f06e40",
   "latest_date": "2026-11-20",
   "batches": [
     {
@@ -364,8 +364,8 @@
             "main": "2-1",
             "backup": "1-2",
             "tail": "2-2",
-            "state": "pending",
-            "actual": null
+            "state": "settled",
+            "actual": "1-1"
           }
         ]
       },
@@ -429,30 +429,30 @@
         "to": "2026-11-19",
         "types": {
           "exact": {
-            "n": 8,
+            "n": 9,
             "exact": {
               "hits": 1,
-              "n": 8,
-              "percent": 12.5
+              "n": 9,
+              "percent": 11.11
             },
             "two": {
               "hits": 1,
-              "n": 8,
-              "percent": 12.5
+              "n": 9,
+              "percent": 11.11
             },
             "three": {
               "hits": 1,
-              "n": 8,
-              "percent": 12.5
+              "n": 9,
+              "percent": 11.11
             },
             "direction": {
               "hits": 5,
-              "n": 8,
-              "percent": 62.5
+              "n": 9,
+              "percent": 55.56
             },
             "recommended_days": 3,
-            "complete_days": 2,
-            "pending_legs": 1,
+            "complete_days": 3,
+            "pending_legs": 0,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
@@ -508,28 +508,28 @@
               },
               {
                 "date": "2026-11-19",
-                "n": 2,
+                "n": 3,
                 "exact": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
                 "two": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
                 "three": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
                 "direction": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
-                "pending": 1
+                "pending": 0
               }
             ]
           },
@@ -645,30 +645,30 @@
         "to": "2026-11-19",
         "types": {
           "exact": {
-            "n": 59,
+            "n": 60,
             "exact": {
               "hits": 9,
-              "n": 59,
-              "percent": 15.25
+              "n": 60,
+              "percent": 15
             },
             "two": {
               "hits": 11,
-              "n": 59,
-              "percent": 18.64
+              "n": 60,
+              "percent": 18.33
             },
             "three": {
               "hits": 13,
-              "n": 59,
-              "percent": 22.03
+              "n": 60,
+              "percent": 21.67
             },
             "direction": {
               "hits": 39,
-              "n": 59,
-              "percent": 66.1
+              "n": 60,
+              "percent": 65
             },
             "recommended_days": 21,
-            "complete_days": 19,
-            "pending_legs": 4,
+            "complete_days": 20,
+            "pending_legs": 3,
             "unverifiable_days": 0,
             "combo_hits": 0,
             "series": [
@@ -1174,28 +1174,28 @@
               },
               {
                 "date": "2026-11-19",
-                "n": 2,
+                "n": 3,
                 "exact": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
                 "two": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
                 "three": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
                 "direction": {
                   "hits": 0,
-                  "n": 2,
+                  "n": 3,
                   "percent": 0
                 },
-                "pending": 1
+                "pending": 0
               }
             ]
           },
