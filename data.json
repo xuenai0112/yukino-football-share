@@ -1,18 +1,18 @@
 {
   "format": "yukino-public-v1",
-  "release_id": "9620e85c-c5e5-4a25-96f9-c44e95d5bf07",
+  "release_id": "86c83ee8-eb7b-48ce-a5ac-7e17fae2aee5",
   "audience": "public",
   "title": "雪乃的足球研究室",
-  "generated_at": "2026-11-22T10:58:50.191Z",
+  "generated_at": "2026-11-22T11:48:39.638Z",
   "include_results": true,
-  "revision": "9620e85c-c5e5-4a25-96f9-c44e95d5bf07",
+  "revision": "86c83ee8-eb7b-48ce-a5ac-7e17fae2aee5",
   "latest_date": "2026-11-22",
   "batches": [
     {
       "date": "2026-11-22",
       "mode": "prematch",
       "model_version": "v4.51",
-      "frozen_at": "2026-11-22T10:58:32.515Z",
+      "frozen_at": "2026-11-22T11:48:21.590Z",
       "fixtures": [
         {
           "number": "2042929",
@@ -334,21 +334,67 @@
           "frozen_at": "2026-11-22T10:58:32.515Z",
           "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
           "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042928",
+          "home": "伯恩利",
+          "away": "布莱克本",
+          "league": "英格兰冠军联赛",
+          "kickoff": "2026-11-22T12:00:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-22T11:28:27.389Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
+        },
+        {
+          "number": "2042936",
+          "home": "云达不来梅",
+          "away": "汉堡",
+          "league": "德国甲级联赛",
+          "kickoff": "2026-11-22T16:30:00.000Z",
+          "main": "2-1",
+          "backup": "1-1",
+          "tail": "1-2",
+          "excluded": false,
+          "quality_tier": "B",
+          "missing_topics": [
+            "squad"
+          ],
+          "result": null,
+          "result_status": "hidden",
+          "two_hit": null,
+          "three_hit": null,
+          "index": 0,
+          "frozen_at": "2026-11-22T11:48:21.590Z",
+          "analysis": "主、备、冷比分是依据封存赛前资料形成的定性判断，不代表命中概率。",
+          "risk": "资料有限，缺项可能影响判断；请谨慎参考。"
         }
       ],
       "selections": {
         "exact": [
-          13,
+          4,
           5,
           12
         ],
         "research": [
-          13,
+          4,
           6,
           12
         ]
       },
-      "coverage_mode": "partial",
+      "coverage_mode": "full",
       "coverage_total": 16,
       "fallbacks": [
         {
@@ -423,7 +469,7 @@
           "away": "布莱克本",
           "league": "英格兰冠军联赛",
           "kickoff": "2026-11-22T12:00:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042929",
@@ -487,7 +533,7 @@
           "away": "汉堡",
           "league": "德国甲级联赛",
           "kickoff": "2026-11-22T16:30:00.000Z",
-          "status": "fallback"
+          "status": "formal"
         },
         {
           "id": "2042937",
@@ -531,7 +577,7 @@
         }
       ],
       "reference_top3": {
-        "generated_at": "2026-11-22T10:58:32.706Z",
+        "generated_at": "2026-11-22T11:48:21.768Z",
         "policy": "formal_first_fallback_fill_v1",
         "rows": [
           {
@@ -543,20 +589,20 @@
             "kickoff": "2026-11-22T18:15:00.000Z"
           },
           {
-            "number": "2042926",
+            "number": "2042928",
             "type": "formal",
-            "main": "3-1",
-            "backup": "2-0",
-            "tail": "2-2",
-            "kickoff": "2026-11-22T11:15:00.000Z"
+            "main": "2-1",
+            "backup": "1-1",
+            "tail": "1-2",
+            "kickoff": "2026-11-22T12:00:00.000Z"
           },
           {
-            "number": "2042927",
+            "number": "2042929",
             "type": "formal",
-            "main": "2-0",
-            "backup": "2-1",
-            "tail": "1-1",
-            "kickoff": "2026-11-22T11:30:00.000Z"
+            "main": "2-1",
+            "backup": "3-1",
+            "tail": "2-2",
+            "kickoff": "2026-11-22T13:00:00.000Z"
           }
         ]
       }
